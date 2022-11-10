@@ -1,5 +1,5 @@
 - 👋 Hi, I’m M.Kaliraj
-- 🌱 I’m currently doing my B.E CSE in PSG ITECH, Coimbatore
+- 🌱 I’m currently doing my B.E CSE in PSG iTech, Coimbatore
 - 📫 Reach me at
 - https://www.instagram.com/kaliraj_01/
 - https://twitter.com/kaliraj_01
