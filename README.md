@@ -1,14 +1,23 @@
 <h2 align="center">
   Welcome to Kaliraj's profile!
-  
 </h2>
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="150"/>
 </div>
-<div id="badges">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Fkalirajm&logo=leetcode&logoColor=yellow" alt="LeetCode Badge"/>
-</div>
+
+<h3 align="center">Full Stack Developer | Learner | C, Java, Python</h3>
+
+
+<p align="center">
+<br>
+<a href="https://www.linkedin.com/in/kaliraj01/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="mailto:kalirajm01@gmail.com?subject=Hi%20Kaliraj"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+<a href="https://kaliraj.netlify.app/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>
+ 
+</p>
+
+<img align="right" alt="GIF" src="https://github.com/kalirajm01" width="500" height="320" />
 
 - 👋 Hi, I’m M.Kaliraj
 - 🌱 I’m currently doing my B.E CSE in PSG iTech, Coimbatore
