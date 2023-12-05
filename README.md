@@ -23,13 +23,6 @@
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/kalirajm01?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
 
-- 👋 Hi, I’m M.Kaliraj
-- 🌱 I’m currently doing my B.E CSE in PSG iTech, Coimbatore
-- 📫 Reach me at
-- kalirajm01@gmail.com
-- https://www.linkedin.com/in/kaliraj01/
-- https://github.com/Kalirajm01
-
 <br><br>
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=kalirajm01&theme=darkhub">
