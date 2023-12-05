@@ -35,7 +35,6 @@
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=kalirajm01&theme=darkhub">
 <br><br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kalirajm01&theme=merko">
 </p>
 <table>
   <tr>
