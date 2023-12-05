@@ -1,7 +1,9 @@
 <h2 align="center">
   Welcome to Kaliraj's profile!
 </h2>
-
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=F73C07&lines=Welcome+to+Programming+world;I+am+Kaliraj+.+%F0%9F%91%8B+;I+am+a+programmer+.;Computer%20Science%20Engineer;Full%20Stack%20Developer;Self%20learner&center=true&width=380&height=45"></a>
+</p>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="150"/>
 </div>
