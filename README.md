@@ -22,6 +22,14 @@
   <a href="https://github.com/kalirajm01?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/kalirajm01?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
+<br><br>
+
+
+
+<h1>My GitHub Stats <img src="https://media.giphy.com/media/cmOBZdewjfLzV9NQiH/giphy.gif" width="48" /></h1>
+
+|<img align=center alt="Kaliraj's streak" src="https://github-readme-stats.vercel.app/api?username=kalirajm01&show_icons=true&count_private=true&include_all_commits=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?&user=kalirajm01&theme=dark"/>|
+|---|---|
 
 <br><br>
 <p align="center">
