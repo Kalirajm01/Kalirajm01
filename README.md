@@ -1,6 +1,6 @@
-<img src="[img_girl.jpg](https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif)">
-
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="100"/>
+</div>
 
 - 👋 Hi, I’m M.Kaliraj
 - 🌱 I’m currently doing my B.E CSE in PSG iTech, Coimbatore
