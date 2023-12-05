@@ -43,6 +43,19 @@
 <code><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
 
+<br><br>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=kalirajm01&theme=darkhub">
+<br><br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kalirajm01&theme=merko">
+</p>
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=kalirajm01&theme=chartreuse-dark&show_icons=true&include_all_commits=true&count_private=true"  display=block width=100% height=auto alt="1"></td>
+    
+   </tr>
+</table>
+
 
 <!---
 Kalirajm01/Kalirajm01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
