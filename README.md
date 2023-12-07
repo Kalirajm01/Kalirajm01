@@ -39,7 +39,7 @@
 
 <h1>My LeetCode Stats</h1>
 
-[!Kaliraj's LeetCode stats(https://leetcode-stats-six.vercel.app/?username=kalirajm)]
+[![Kaliraj's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=kalirajm)](https://github.com/kalirajm01/leetcode-stats)
 
 
 ### Languages and Tools:
