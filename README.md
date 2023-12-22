@@ -40,6 +40,7 @@
 <h1>My LeetCode Stats</h1>
 
 [![Kaliraj's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=kalirajm)](https://github.com/kalirajm01/leetcode-stats)
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=kalirajm&theme=mint" alt="LeetCode Badges"/>
 
 
 ### Languages and Tools:
