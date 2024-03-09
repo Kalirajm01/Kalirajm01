@@ -45,6 +45,9 @@
 
 [![Kaliraj's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=kalirajm)](https://github.com/kalirajm01/leetcode-stats)
 <img src="https://leetcode-badge-showcase.vercel.app/api?username=kalirajm&theme=mint" alt="LeetCode Badges"/>
+[![Leetcode Stats](https://leetcard.jacoblin.cool/kalirajm?ext=contest&theme=dark)](https://leetcode.com/kalirajm)
+
+[![Hareesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kalirajm01&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/kalirajm01/github-readme-activity-graph)
 
 
 ### Languages and Tools:
