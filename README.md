@@ -1,6 +1,10 @@
 <h2 align="center">
   Welcome to Kaliraj's profile!
 </h2>
+
+- 🌱 I’m currently learning DSA
+- 💬 Talk with me about Tech
+
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=F73C07&lines=I+am+Kaliraj+%F0%9F%91%8B+;Computer%20Science%20Engineer;Full%20Stack%20Developer;Self%20Learner&center=true&width=380&height=45"></a>
 </p>
