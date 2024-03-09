@@ -4,6 +4,7 @@
 
 - 🌱 I’m currently learning DSA
 - 💬 Talk with me about Tech
+- Call me a **Techie**
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=F73C07&lines=I+am+Kaliraj+%F0%9F%91%8B+;Computer%20Science%20Engineer;Full%20Stack%20Developer;Self%20Learner&center=true&width=380&height=45"></a>
@@ -50,7 +51,7 @@
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/kalirajm?ext=contest&theme=dark)](https://leetcode.com/kalirajm)
 
-### I code in these Languages:
+### I code in these Technology:
 
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/tensorflow.png"/> <img height="50" width="50" src="https://img.icons8.com/fluent/48/000000/arduino.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/spring-logo.png"/>
