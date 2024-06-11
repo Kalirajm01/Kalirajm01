@@ -13,7 +13,7 @@
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="150"/>
 </div>
 
-<h3 align="center">Full Stack Developer | Learner | C, Java, Python</h3>
+<h3 align="center">Full Stack Developer | Learner</h3>
 
 
 <p align="center">
@@ -46,7 +46,6 @@
 
 <h1>My LeetCode Stats</h1>
 
-[![Kaliraj's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=kalirajm)](https://github.com/kalirajm01/leetcode-stats)
 <img src="https://leetcode-badge-showcase.vercel.app/api?username=kalirajm&theme=mint" alt="LeetCode Badges"/>
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/kalirajm?ext=contest&theme=dark)](https://leetcode.com/kalirajm)
