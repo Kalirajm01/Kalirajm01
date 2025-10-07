@@ -34,7 +34,7 @@
 
   I am Kaliraj, with a strong foundation in Computer Science and a problem-solving mindest, I have gained valuable experience in front-end and back-end development, working with technologies such as HTML, CSS, JavaScript, NodeJS, React, and various frameworks.
   
-  Currently pursuing my Bachelor of Engineering in Computer Science and Engineering from PSG Institute of Technology and Applied Research. I am very much interested in Technology since my childhood. That was the reason I choose to pursue my higher studies in Computer Science Engineering.
+  Completed my Bachelor of Engineering in Computer Science and Engineering from PSG Institute of Technology and Applied Research (2025). I am very much interested in Technology since my childhood. That was the reason I choose to pursue my higher studies in Computer Science Engineering.
   
   I am passionate about Web Development, Networking being an open-minded learner, I always look for opportunities to explore and learn anything new. I have completed my Diploma in Computer Networking from PSG Polytechnic College (2022).
 
